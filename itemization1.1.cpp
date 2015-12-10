@@ -3,7 +3,9 @@
 
 #include "stdafx.h"
 #include <stdio.h>
-#include <math.h>   //vince is a bitch
+#include <math.h>
+#include <iostream>  // standerd for c++ alows cin and cout etc...
+#include <iomanip>    // -----^
 
 FILE *fp1, *fp2;
 
